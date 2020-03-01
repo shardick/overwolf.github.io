@@ -78,3 +78,7 @@ sidebar_label: Various External APIs
 ## World of Warplanes
 
 * Wargaming.net API | [API](http://eu.wargaming.net/developers/)
+
+## TruckersMP (Euro Truck Simulator 2 & American Truck Simulator Multiplayer mod)
+
+* Trucky API | [API](https://api.truckyapp.com/docs)
